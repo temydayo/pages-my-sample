@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Temi's Awesome site!
+title: Temi's Epic site!
 email: temi.olorunsogo@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  You need to check out this site, REALLY!
+  You need to check out this site, REALLY!!!
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
 url: "https://temydayo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: goldcurve
+github_username:  temydayo
 
 # Build settings
 theme: minima
