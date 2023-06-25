@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Temi's Epic site!
+title: Temi's Data Final Project site!
 email: temi.olorunsogo@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
   You need to check out this site, REALLY!!!
