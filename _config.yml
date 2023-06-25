@@ -21,7 +21,7 @@
 title: Temi's Data Final Project site!
 email: temi.olorunsogo@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  You need to check out this site, REALLY!!!
+  My Final Project for the Bootcamp Microcredential.
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
 url: "https://temydayo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: goldcurve
